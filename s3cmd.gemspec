@@ -21,5 +21,5 @@ DESC
   s.add_dependency "aws", "~> 2.5.6"
   s.add_dependency "mime-types", "~> 1.16"
   s.add_dependency "proxifier", "~> 1.0.2"
-  s.add_dependency "thor", "~> 0.14.6"
+  s.add_dependency "thor", "~> 0.16.0"
 end
